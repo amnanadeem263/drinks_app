@@ -1,16 +1,29 @@
-# drinks_app
+# Drinks App 🍹
 
-A new Flutter project.
+A **Flutter-based mobile app** for browsing, ordering, and managing drinks. Includes **Firebase authentication**, **Google Sign-In**, **maps**, and a modern, smooth UI with responsive design.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Email & Password Authentication**  
+- **Google Sign-In Integration**  
+- **Drink List & Categories**  
+- **Cart & Checkout**  
+- **Google Maps Integration**  
+  - Location selection and display
+  - Requires your own Google Maps API Key
+- **Interactive UI with Smooth Animations**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- **Flutter & Dart**  
+- **Firebase Authentication & Firestore**  
+- **Google Sign-In**  
+- **Google Maps API**  
+- **Provider / State Management**  
+
+---
+
