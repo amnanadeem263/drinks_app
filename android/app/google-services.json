@@ -12,7 +12,20 @@
           "package_name": "com.example.drinks_app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "893562233767-12pinn0nj17pjn65ulrl6t27voie1r8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drinks_app",
+            "certificate_hash": "94d1a0db942e70fc338cb8f7a724635389b3e1a1"
+          }
+        },
+        {
+          "client_id": "893562233767-7sbkh6dh6mnhbtjrnsdq4nv7i8aejsfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyB2vkUAhOL9Pday9LP2jflT3OwVDngypgA"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893562233767-7sbkh6dh6mnhbtjrnsdq4nv7i8aejsfl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893562233767-5qbpo7qhff9kio27o4mkpl4bjm8ugsro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.drinksApp"
+              }
+            }
+          ]
         }
       }
     }
